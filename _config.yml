@@ -20,7 +20,7 @@ navbar-links:
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Getting Started: "getstarted"
   Table Demo: "table-demo"
-  Author's home: "https://deanattali.com"
+ 
 
 # --- Logo --- #
 
@@ -196,6 +196,7 @@ date_format: "%B %-d, %Y"
 # Output options (more information on Jekyll's site)
 timezone: "America/Toronto"
 markdown: kramdown
+theme: midnight
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
